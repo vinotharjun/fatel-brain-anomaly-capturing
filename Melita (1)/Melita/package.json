@@ -1,0 +1,18 @@
+{
+  "name": "melita",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "adaptive-threshold": "^1.2.0",
+    "get-pixels": "^3.3.2",
+    "ndarray": "^1.0.18",
+    "save-pixels": "^2.3.4",
+    "zeros": "^1.0.0"
+  }
+}
