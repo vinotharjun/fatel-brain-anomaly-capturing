@@ -8,6 +8,6 @@ This project contains two phases
  # Classification 
         1 Train models in ClassifyBrain.ipynb file
         2.Predict using predict.ipynb file
- #Segementation
+ # Segementation
         step 1 : choose fatel brain image  to be segemented in index.js file (set dir path)
         step 2 : run "node index.js"
