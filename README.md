@@ -1,5 +1,5 @@
-# fatel-brain-anomaly-capturing
-Fatel brain anomaly detection using  simple Deep neural networks
+# fetal-brain-anomaly-capturing
+Fetal brain anomaly detection using  simple Deep neural networks
 
 This project contains two phases 
       1.Classification part (current directory)
